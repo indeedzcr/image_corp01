@@ -6,6 +6,7 @@ import numpy as np
 from PIL import Image, ImageFont, ImageDraw
 import cv2
 
+# Corp
 
 # 鼠标回调函数 mouse callback function
 def draw_rectangle(event, x, y, flags, param):
